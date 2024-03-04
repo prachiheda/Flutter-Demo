@@ -55,7 +55,7 @@ class _BodyCalendarState extends State<BodyCalendar> {
           Expanded(
             child: Column(
               children: [
-                const Text('M'),
+                const Text('M', style: TextStyle(fontWeight: FontWeight.bold)),
                 Container(
                   decoration: const BoxDecoration(
                     shape: BoxShape.circle,
