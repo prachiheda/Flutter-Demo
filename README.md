@@ -1,6 +1,6 @@
 # demo_app
 
-![image](files/Users/jzhang/Desktop/Isolated.png](https://github.com/prachiheda/Flutter-Demo/blob/main/Screenshot_1709530485.png)
+![image](https://github.com/prachiheda/Flutter-Demo/blob/main/Screenshot_1709530485.png)
 
 A new Flutter project.
 
